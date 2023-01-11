@@ -231,6 +231,10 @@ td,th{
 
 .imagen-diferenciales{
     width: 60%;
+    transition: 0.4s;
+}
+.imagen-diferenciales:hover{
+    opacity: 0.4;
 }
 
 .video{
